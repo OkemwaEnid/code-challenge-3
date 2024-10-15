@@ -1,9 +1,9 @@
 //Movie Data
 const movies = [
     {
-      title: "joker",
+      title: "Joker",
       runtime: 120,
-      description: "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother.",
+      description: "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
       showtime: "7:00 PM",
       poster: "assets/joker.jpg",
       tickets: 10,
